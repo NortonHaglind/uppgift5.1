@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    list-style: none;
+
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh
+}
+
+.parent {
+    background: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 1rem;
+    margin: 0;
+
+
+}
+
+.caption {
+    background: plum;
+    position: sticky;
+    top: 0;
+
+
+}
+
+.menu {
+    background: none;
+    font-size: 20PX;
+    padding: 1rem;
+}
